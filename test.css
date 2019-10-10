@@ -1,0 +1,67 @@
+#Header {
+    border: solid 8px black;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#Header h1 {
+    font-size: 60px;
+    color: #FFBC00;
+    font-weight: bold;
+    font-family: "Passion One";
+}
+
+body{
+    background-image: url("carbonfiber.jpg")
+}
+
+p{
+    color: white;
+    font-family:"Arial";
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
+
+h3{
+    color: #FFBC00;
+    font-size: 40px;
+    font-family: "Passion One";
+    margin-bottom: 0px;
+    text-decoration: underline;
+}
+
+#LeftNav{
+    width: 400px;
+    padding-bottom: 8px;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    text-align: center;
+    float: left;
+    background-color: #8E41D5
+}
+
+#Content {
+    width: 700px;
+    padding: 15px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 8px black; border-radius: 12px; border-style: dotted;
+    text-align: center;
+    background-color: #8E41D5
+}
+
+#Footer {
+    text-align: center;
+    border: solid 8px black; border-style: dashed;
+    background-color: #8E41D5
+   
+   
+}
+
+    
+
